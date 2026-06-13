@@ -72,16 +72,16 @@ I am a Full Stack Developer, Flutter App Engineer, and React Web Developer curre
 
 ## Experience
 
-### Full Stack & Mobile App Engineer — *Technical Hub Pvt Ltd*
-**May 2025 – June 2026**
+### Founder & Lead Architect — *Pixel Lab Studio*
+**May 2025 – Present**
 
-> Part of a core engineering team focused on building high-performance web solutions and cross-platform mobile ecosystems. Took ownership of features from pixel-perfect UI implementation down to database optimizations and containerized deployments.
+> Founded and scaled an independent digital production studio specializing in high-performance cross-platform applications, automated systems, and modern web solutions. Overseeing end-to-end product strategy, code quality, and cloud deployments.
 
-* **Engineering Impact:**
-    * **Frontend & Mobile:** Developed fluid, responsive web interfaces using React and compiled high-performance, native mobile layouts via Flutter.
-    * **Backend & Systems:** Structured relational schemas in PostgreSQL and engineered scalable, secure REST APIs using Node.js and Express.
-    * **DevOps & CI/CD:** Containerized application environments with Docker and streamlined deployment pipelines using automated Git workflows.
-    * **Code Quality:** Actively engaged in performance profiling, optimization bottlenecks, and strict peer code reviews to maintain repository health.
+* **Engineering & Leadership Impact:**
+    * **Product Ownership:** Architected, built, and shipped production-grade software solutions (Mobile, Web, and SaaS tools) completely from the ground up.
+    * **Full-Stack Systems:** Engineered robust cross-platform mobile apps using Flutter and designed scalable backend systems with Node.js, Express, and PostgreSQL schemas.
+    * **DevOps & Automation:** Established containerized developer workflows with Docker and configured automated cloud pipelines to streamline application delivery.
+    * **Brand & Vision:** Leading the complete product lifecycle—from initial wireframing and UI/UX design to final global deployment on production marketplaces.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
@@ -91,16 +91,6 @@ I am a Full Stack Developer, Flutter App Engineer, and React Web Developer curre
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-* **Scope of work:**
-    * Built React frontends, Flutter mobile layouts, and Node.js/Express backends.
-    * Designed and integrated relational databases (PostgreSQL) and REST APIs.
-    * Deployed applications using Docker with Git-based CI/CD workflows.
-    * Participated in debugging, performance profiling, and code reviews.
-
-`Flutter` `React` `Node.js` `PostgreSQL` `Docker` `REST APIs` `Git`
-
----
 
 ## Achievements & Certifications
 
