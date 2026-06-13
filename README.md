@@ -137,5 +137,11 @@ I am a Full Stack Developer, Flutter App Engineer, and React Web Developer curre
 
 ### Contribution Snake Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KOUSTAV2007/KOUSTAV2007/output/github-contribution-grid-snake.svg" alt="Github Snake Game" width="100%" />
+  <div style="width: 100%; height: 135px; overflow: hidden; display: flex; justify-content: center; align-items: flex-start;">
+    <img 
+      src="https://raw.githubusercontent.com/KOUSTAV2007/KOUSTAV2007/output/github-contribution-grid-snake.svg" 
+      alt="Github Snake Game" 
+      style="width: 100%; max-height: 160px; margin-bottom: -25px; image-rendering: optimizeQuality; -webkit-backface-visibility: hidden; backface-visibility: hidden;"
+    />
+  </div>
 </p>
