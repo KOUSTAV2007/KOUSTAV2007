@@ -72,9 +72,25 @@ I am a Full Stack Developer, Flutter App Engineer, and React Web Developer curre
 
 ## Experience
 
-### Full Stack & Mobile App Trainee — *Technical Hub Pvt Ltd*
+### Full Stack & Mobile App Engineer — *Technical Hub Pvt Ltd*
 **May 2025 – June 2026**
-> Embedded within a software engineering team building and maintaining production web and mobile applications. Contributed across the full development lifecycle—from UI implementation to database design, API development, and containerized deployment.
+
+> Part of a core engineering team focused on building high-performance web solutions and cross-platform mobile ecosystems. Took ownership of features from pixel-perfect UI implementation down to database optimizations and containerized deployments.
+
+* **Engineering Impact:**
+    * **Frontend & Mobile:** Developed fluid, responsive web interfaces using React and compiled high-performance, native mobile layouts via Flutter.
+    * **Backend & Systems:** Structured relational schemas in PostgreSQL and engineered scalable, secure REST APIs using Node.js and Express.
+    * **DevOps & CI/CD:** Containerized application environments with Docker and streamlined deployment pipelines using automated Git workflows.
+    * **Code Quality:** Actively engaged in performance profiling, optimization bottlenecks, and strict peer code reviews to maintain repository health.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 * **Scope of work:**
     * Built React frontends, Flutter mobile layouts, and Node.js/Express backends.
