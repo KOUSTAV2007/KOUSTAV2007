@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KOUSTAV2007/static-image-host/raw/main/Futuristic%20tech%20data%20company%20YouTube%20banner.png" width="100%" alt="header banner" />
+  <img src="https://github.com/KOUSTAV2007/static-image-host/raw/main/header.png" />
 </p>
 
 <h1 align="center">Koustav</h1>
