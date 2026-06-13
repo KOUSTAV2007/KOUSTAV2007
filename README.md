@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/main?type=waving&color=auto&height=150&section=header&text=&fontSize=90" width="100%" alt="header banner" />
+  <img src="https://github.com/KOUSTAV2007/static-image-host/raw/main/Futuristic%20tech%20data%20company%20YouTube%20banner.png" width="100%" alt="header banner" />
 </p>
 
 <h1 align="center">Koustav</h1>
@@ -50,14 +50,14 @@ I am a Full Stack Developer, Flutter App Engineer, and React Web Developer curre
 
 ---
 
-## AI / ML Expertise
+## Flutter & TypeScript Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Large Language Models** | Advanced | Prompt engineering, RAG pipelines, LLM API integration |
-| **Natural Language Processing** | Expert | Document parsing, text classification, entity extraction |
-| **Machine Learning** | Advanced | Supervised/unsupervised learning, model evaluation |
-| **Document AI** | Experienced | Policy analysis, structured extraction from unstructured data |
+| **Flutter Mobile Development** | Advanced | Cross-platform app architecture (BLoc, Provider), state management, complex animations, native integrations (Platform Channels). |
+| **Dart Programming** | Expert | Asynchronous programming, dependency injection, clean architecture principles applied to app development. |
+| **TypeScript (Web)** | Advanced | Static typing for JavaScript, scalable web application development with React or Angular, type-safe APIs. |
+| **TypeScript (Backend)** | Experienced | Typed Node.js development, type-safe database access (Prisma), building robust RESTful microservices. |
 
 ---
 
@@ -91,6 +91,8 @@ I am a Full Stack Developer, Flutter App Engineer, and React Web Developer curre
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+---
 
 ## Achievements & Certifications
 
